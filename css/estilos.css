@@ -340,11 +340,10 @@ footer .copyright{
         /* margin: 100px 0; */
         margin-top: 15%;
         margin-bottom: 40%;
-
-
     }
 
     header .menu a{
+        margin-top: 25px;
         font-size: 15px;
     }
     .main .acerca-de article h3{
