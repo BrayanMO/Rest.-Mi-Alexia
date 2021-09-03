@@ -286,7 +286,9 @@ footer .copyright{
     }
     header .textos{
         position: static;
-        margin: 100px 0;
+        /* margin: 100px 0; */
+        margin-top: 15%;
+        margin-bottom: 40%;
     }
 
     header .menu{
@@ -295,6 +297,7 @@ footer .copyright{
 
     header .menu a{
         margin: 10px 20px;
+        margin-top: 30px;
     }
 
     header .textos .nombre{
@@ -342,9 +345,11 @@ footer .copyright{
         margin-bottom: 40%;
     }
 
-    header .menu a{
-        margin-top: 25px;
-        font-size: 15px;
+    header .menu a {
+        margin-top: 20px;
+        margin-bottom: -10px;
+        font-size: 18px;
+ 
     }
     .main .acerca-de article h3{
         font-size: 34px;
